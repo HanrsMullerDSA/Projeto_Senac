@@ -54,6 +54,4 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull re
 
 ## Licença
 
-Este projeto está sob a licença MIT. Consulte o arquivo LICENSE para mais detalhes.
-```perl
-  Esse código deve ser copiado e colado diretamente no arquivo README.md do repositório no GitHub. Ele fornece uma documentação clara e estruturada para qualquer pessoa que visite seu repositório, explicando o propósito do projeto, as ferramentas utilizadas, como usá-lo, e os resultados obtidos.
+Este projeto está sob a licença [MIT](LICENSE). Consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
