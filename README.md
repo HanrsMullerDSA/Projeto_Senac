@@ -37,3 +37,23 @@ Este projeto independente de Business Intelligence (BI) visa analisar o mercado 
    ```bash
    pip install -r requirements.txt
 3. Abra o Jupyter Notebook `Codigo.ipynb` para explorar o código e executar a análise.
+
+## Resultados
+
+Os principais insights incluem:
+- Áreas onde os cursos do SENAC/RN estão alinhados com as demandas do mercado de trabalho do RN.
+- Setores onde há oportunidades de desenvolvimento de novos cursos para atender lacunas do mercado.
+
+## Conclusão
+
+Este projeto demonstra como a análise de dados e BI podem ser utilizados para alinhar a oferta educacional com as necessidades reais do mercado de trabalho, fornecendo uma base sólida para decisões estratégicas no setor de educação profissional.
+
+## Contribuições
+
+Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull requests para melhorias ou novas funcionalidades.
+
+## Licença
+
+Este projeto está sob a licença MIT. Consulte o arquivo LICENSE para mais detalhes.
+```perl
+  Esse código deve ser copiado e colado diretamente no arquivo README.md do repositório no GitHub. Ele fornece uma documentação clara e estruturada para qualquer pessoa que visite seu repositório, explicando o propósito do projeto, as ferramentas utilizadas, como usá-lo, e os resultados obtidos.
