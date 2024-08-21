@@ -1,4 +1,4 @@
-# Projeto SENAC/RN: Análise de BI sobre o Mercado de Trabalho do RN e os Cursos Oferecidos
+# Análise de Dados CAGED com Python e BigQuery - Comparação do Mercado de Trabalho com os Cursos Oferecidos pelo SENAC/RN
 
 ## Visão Geral
 
