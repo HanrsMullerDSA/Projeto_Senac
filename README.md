@@ -33,3 +33,7 @@ Este projeto independente de Business Intelligence (BI) visa analisar o mercado 
 1. Clone este repositório:
    ```bash
    git clone https://github.com/HanrsMullerDSA/Projeto_Senac.git
+2. Instale as dependências necessárias:
+   ```bash
+   pip install -r requirements.txt
+3. Abra o Jupyter Notebook `Codigo.ipynb` para explorar o código e executar a análise.
